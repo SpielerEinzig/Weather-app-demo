@@ -9,4 +9,5 @@ A Flutter project to fetch weather data from open weather API using device locat
 
 ## Works on
 [x] Android
+
 [x] IOS
